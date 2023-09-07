@@ -51,7 +51,7 @@ Make sure you have an Excel file named 'transactions.xlsx'(*you can also rename 
 Copy the provided Python code and paste it into a Python script file (e.g., process_excel.py).
 
 #### 4.Modify the Save Filename:
-In the code, there is a line where it attempts to save the modified workbook with a filename. Replace 'filename' with your desired filename or path (e.g., 'output.xlsx'). Ensure that you keep the file extension as =='.xlsx'==.
+In the code, there is a line where it attempts to save the modified workbook with a filename. Replace 'filename' with your desired filename or path (e.g., 'output.xlsx'). Ensure that you keep the file extension as '.xlsx'.
 
 #### 5.Run the Script:
 Open a terminal or command prompt and navigate to the directory where your Python script is located. Run the script by typing:
@@ -65,7 +65,7 @@ The script will execute, opening the 'transactions.xlsx' file, doubling the valu
 #### 7.Check the Output:
 After running the script, you should find the modified Excel workbook (e.g., 'output.xlsx') in the same directory where your script is located. You can open this file to view the changes and the newly created bar chart.
 
-:fire: :star:==Remember to ensure that you have the required permissions to read and write files in the directory where your script is located, and that you have the necessary data in 'transactions.xlsx' for the code to process and chart.==
+:fire: :star:Remember to ensure that you have the required permissions to read and write files in the directory where your script is located, and that you have the necessary data in 'transactions.xlsx' for the code to process and chart.
 
 
 
