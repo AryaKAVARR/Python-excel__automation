@@ -57,7 +57,15 @@ In the code, there is a line where it attempts to save the modified workbook wit
 Open a terminal or command prompt and navigate to the directory where your Python script is located. Run the script by typing:
 
 ```
-./process_excel.py  OR  python process_excel.py  OR  python3 process_excel.py (if python3 installed)
+./process_excel.py  
+```
+OR
+```
+python process_excel.py  
+```
+OR  
+```
+python3 process_excel.py (if python3 installed)
 ```
 #### 6.Execution:
 The script will execute, opening the 'transactions.xlsx' file, doubling the values in the third column, creating a bar chart based on the corrected data, and attempting to save the modified workbook with the filename you specified.
